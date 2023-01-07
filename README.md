@@ -1,1 +1,1 @@
-Welcome to my SQL Portfolio! This repository contains examples of SQL code I have written. Feel free to take a look :)
+Welcome to my Portfolio! This repository contains examples of excel dashbords I have developed. Feel free to take a look :)
